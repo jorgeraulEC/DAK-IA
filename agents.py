@@ -11,10 +11,6 @@ tokens, input/output, referencia agosto 2026):
   - Gemini 3.7 Flash      ~$0.75/$3.75 -> balance costo/razonamiento, alto volumen
   - Gemini 3.5 Flash-Lite ~$0.30/$2.50 -> más barato, para tareas repetitivas de bajo riesgo
 
-Requiere GEMINI_API_KEY (o GOOGLE_API_KEY) en el entorno -- ya no
-ANTHROPIC_API_KEY. Los IDs de modelo exactos cambian seguido; verifica
-el nombre vigente en la documentación de Google AI / LiteLLM antes de
-correr el demo, por si el proveedor renombró alguno.
 """
 from crewai import Agent, LLM
 
