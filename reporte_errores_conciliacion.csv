@@ -1,0 +1,9 @@
+RUC,COD_CLIENTE,COD_CUENTA,SISTEMA,referencia_original,FECHA_PAGO,MONTO_PAGADO,motivo
+2068272028,8726575,286821993,AMDOCS,FJCY-00203897,2026-07-01,7.99,Sin factura real que coincida (ni exacta ni con normalización de ceros) -- no se cierra ni se descarta solo: derivar a revisión humana.
+2027994752,502092,32850200,ISIS,FFBG-153692,2026-06-23,64.28,Sin factura real que coincida (ni exacta ni con normalización de ceros) -- no se cierra ni se descarta solo: derivar a revisión humana.
+2035352743,623682121,302436757,AMDOCS,FJCY-00259740,2026-06-02,11.28,Sin factura real que coincida (ni exacta ni con normalización de ceros) -- no se cierra ni se descarta solo: derivar a revisión humana.
+2089887205,33164911,601371237,AMDOCS,S9AA-0022951847,2026-06-15,9.24,Sin factura real que coincida (ni exacta ni con normalización de ceros) -- no se cierra ni se descarta solo: derivar a revisión humana.
+2071671933,516245631,439561267,AMDOCS,FQAK-00008632,2026-07-05,0.7,Sin factura real que coincida (ni exacta ni con normalización de ceros) -- no se cierra ni se descarta solo: derivar a revisión humana.
+2066202065,33435575,927408427,AMDOCS,FJCY-00259881,2026-07-02,36.31,Sin factura real que coincida (ni exacta ni con normalización de ceros) -- no se cierra ni se descarta solo: derivar a revisión humana.
+2067621835,516245631,149281267,AMDOCS,FQAK-00008647,2026-07-08,0.7,Sin factura real que coincida (ni exacta ni con normalización de ceros) -- no se cierra ni se descarta solo: derivar a revisión humana.
+2052946285,588201921,115337057,AMDOCS,DJFF-00593541,2026-07-30,0.98,Sin factura real que coincida (ni exacta ni con normalización de ceros) -- no se cierra ni se descarta solo: derivar a revisión humana.

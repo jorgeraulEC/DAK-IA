@@ -1,0 +1,49 @@
+{
+  "periodo_datos": {
+    "facturas_desde": "2023-04-18",
+    "facturas_hasta": "2026-08-05",
+    "fecha_referencia_usada": "2026-08-16"
+  },
+  "clientes": {
+    "total_en_maestro_001": 1000,
+    "con_alerta_regulatoria": 2655,
+    "sin_ficha_en_maestro_001": 2548,
+    "nota_sin_ficha": "RUC que facturan y/o pagan pero no tienen fila en 001_TBL_CLIENTES_B2B -- no se les puede validar SUNAT/Osiptel con este extracto. Ver regulatorio_por_cliente.csv para el detalle."
+  },
+  "facturas": {
+    "total": 3364,
+    "monto_total_facturado": 447964.58,
+    "monto_total_pagado": 392705.78,
+    "monto_total_notas_credito": 3093.22,
+    "procesadas": 2655,
+    "no_procesadas": 709,
+    "por_estado": {
+      "CONCILIADA_EXACTA": 2611,
+      "PAGO_PARCIAL": 553,
+      "SOBREPAGO": 156,
+      "CONCILIADA_CON_NORMALIZACION": 44
+    }
+  },
+  "conciliacion_pagos": {
+    "pagos_totales": 3548,
+    "corregidos_automaticamente_por_formato": 66,
+    "sin_resolver_requieren_revision": 8
+  },
+  "conciliacion_no_depende_del_maestro_clientes": {
+    "nota": "La conciliación pagos<->facturas usa NRO_DOC_FISCAL/FACTURA_AFECTADA, nunca el maestro de clientes (001) -- por eso los RUC sin ficha SUNAT igual se reconcilian con normalidad. Cifras de verificación:",
+    "facturas_de_ruc_sin_ficha_maestro": 1871,
+    "tasa_conciliacion_automatica_con_ficha": 0.783,
+    "tasa_conciliacion_automatica_sin_ficha": 0.794
+  },
+  "riesgo_clientes": {
+    "BAJO": 788,
+    "ALTO": 112,
+    "MEDIO": 99
+  },
+  "segmento_riesgo_final_clientes": {
+    "SIN_HISTORIAL_DE_FACTURACION": 2509,
+    "BAJO": 733,
+    "ALTO": 210,
+    "MEDIO": 96
+  }
+}

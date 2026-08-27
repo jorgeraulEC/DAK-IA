@@ -1,0 +1,1000 @@
+RUC,cantidad_facturas,promedio_dias_atraso,maximo_dias_atraso,tendencia_creciente,nivel_riesgo,patron_citado,accion_cobro_sugerida
+1002033932,2,1.0,1,False,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+1002436750,2,0.5,1,False,BAJO,"promedio 0.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+1003385935,6,-9.8,-3,False,BAJO,"promedio -9.8 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+1021589348,2,-3.5,-2,False,BAJO,"promedio -3.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+1031024653,4,-3.2,5,False,BAJO,"promedio -3.2 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+1038544262,4,-3.5,-2,False,BAJO,"promedio -3.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+1042311948,2,-3.5,-2,True,BAJO,"promedio -3.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+1042862786,3,3.0,18,False,BAJO,"promedio 3.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+1048743727,8,0.9,5,False,BAJO,"promedio 0.9 días de atraso en 8 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2000097055,3,2.7,8,False,BAJO,"promedio 2.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2000103903,2,-6.0,-3,True,BAJO,"promedio -6.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2000150523,8,-8.0,-8,False,BAJO,"promedio -8.0 días de atraso en 8 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2000279692,4,2.8,3,False,BAJO,"promedio 2.8 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2000357153,2,-9.5,-7,True,BAJO,"promedio -9.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2000414951,3,0.0,11,False,BAJO,"promedio 0.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2000734783,2,16.0,17,False,ALTO,"promedio 16.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2000865303,3,-7.3,3,False,BAJO,"promedio -7.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2000875718,4,1.2,16,False,BAJO,"promedio 1.2 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2001034891,3,10.3,16,False,MEDIO,"promedio 10.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2001047693,3,7.0,16,False,MEDIO,"promedio 7.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2001063341,2,15.0,20,True,ALTO,"promedio 15.0 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2001109147,2,0.0,2,False,BAJO,"promedio 0.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2001115330,2,-3.0,-2,False,BAJO,"promedio -3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2001156117,11,-2.0,14,False,BAJO,"promedio -2.0 días de atraso en 11 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2001445858,3,52.3,149,False,ALTO,"promedio 52.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2001476166,1,50.0,50,False,ALTO,"promedio 50.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2001486599,3,19.7,23,False,ALTO,"promedio 19.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2001605530,6,-8.3,6,False,BAJO,"promedio -8.3 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2001625741,2,-1.0,-1,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2001681016,2,-5.0,-5,False,BAJO,"promedio -5.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2001699108,3,-6.0,5,False,BAJO,"promedio -6.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2001720617,2,9.5,10,True,MEDIO,"promedio 9.5 días de atraso en 2 factura(s), tendencia creciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2001809758,3,-6.3,4,False,BAJO,"promedio -6.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2001889079,3,13.0,52,False,MEDIO,"promedio 13.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2002042551,2,-13.5,-11,False,BAJO,"promedio -13.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2002061694,2,-1.5,-1,True,BAJO,"promedio -1.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2002092029,2,-7.0,-3,True,BAJO,"promedio -7.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2002115898,2,-6.0,-6,False,BAJO,"promedio -6.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2002206758,2,-5.0,4,False,BAJO,"promedio -5.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2002271273,2,-6.5,-1,False,BAJO,"promedio -6.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2002302343,2,-5.0,4,True,BAJO,"promedio -5.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2002500138,5,-0.2,9,False,BAJO,"promedio -0.2 días de atraso en 5 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2002509216,1,116.0,116,False,ALTO,"promedio 116.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2002657495,7,-1.0,4,False,BAJO,"promedio -1.0 días de atraso en 7 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2002846047,2,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2002866357,6,6.0,52,False,MEDIO,"promedio 6.0 días de atraso en 6 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2003193070,2,-0.5,0,False,BAJO,"promedio -0.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2003216433,3,-1.3,0,False,BAJO,"promedio -1.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2003372653,3,15.3,23,False,ALTO,"promedio 15.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2003418714,5,-5.8,2,False,BAJO,"promedio -5.8 días de atraso en 5 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2003540698,2,-11.0,-10,False,BAJO,"promedio -11.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2003554480,2,0.0,0,False,BAJO,"promedio 0.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2003621431,2,-10.5,-8,True,BAJO,"promedio -10.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2003740540,2,-4.0,-2,False,BAJO,"promedio -4.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2003858294,4,1.5,3,False,BAJO,"promedio 1.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2004228948,2,2.5,7,True,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2004268042,2,0.5,2,True,BAJO,"promedio 0.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2004403801,4,-5.8,0,False,BAJO,"promedio -5.8 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2004470530,1,0.0,0,False,BAJO,"promedio 0.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2004492803,3,0.7,31,False,BAJO,"promedio 0.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2004670915,2,12.5,22,False,MEDIO,"promedio 12.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2004755252,1,-9.0,-9,False,BAJO,"promedio -9.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2004792943,2,4.0,5,True,BAJO,"promedio 4.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2004941501,2,8.0,10,False,MEDIO,"promedio 8.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2004965083,2,2.0,4,False,BAJO,"promedio 2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2004984092,2,2.5,3,False,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2005090949,1,2.0,2,False,BAJO,"promedio 2.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2005137984,2,1.0,3,False,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2005150947,6,-5.0,-3,True,BAJO,"promedio -5.0 días de atraso en 6 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2005224522,2,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2005357307,4,-4.0,-1,True,BAJO,"promedio -4.0 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2005457279,2,6.0,7,True,MEDIO,"promedio 6.0 días de atraso en 2 factura(s), tendencia creciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2005459584,2,3.0,4,False,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2005559505,1,-4.0,-4,False,BAJO,"promedio -4.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2005799938,2,-6.0,-4,True,BAJO,"promedio -6.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2005835327,1,2.0,2,False,BAJO,"promedio 2.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2005896521,6,1.2,3,False,BAJO,"promedio 1.2 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2005956371,1,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2006121666,26,1.7,141,False,BAJO,"promedio 1.7 días de atraso en 26 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2006209623,2,-5.0,-4,False,BAJO,"promedio -5.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2006257040,2,-8.5,-7,True,BAJO,"promedio -8.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2006444143,4,2.5,3,False,BAJO,"promedio 2.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2006444294,4,4.5,8,True,BAJO,"promedio 4.5 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2006459799,22,3.0,55,False,BAJO,"promedio 3.0 días de atraso en 22 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2006477444,5,-7.2,16,False,BAJO,"promedio -7.2 días de atraso en 5 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2006503400,2,3.0,4,True,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2006563540,4,0.8,2,False,BAJO,"promedio 0.8 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2006917349,2,132.5,133,False,ALTO,"promedio 132.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2006969490,8,-3.8,12,False,BAJO,"promedio -3.8 días de atraso en 8 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2007125725,1,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2007306359,2,45.5,61,False,ALTO,"promedio 45.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2007367776,2,-2.0,-1,False,BAJO,"promedio -2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2007644775,3,-5.0,24,False,BAJO,"promedio -5.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2007774830,4,-2.8,-1,False,BAJO,"promedio -2.8 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2007886461,3,7.7,23,False,MEDIO,"promedio 7.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2007950781,6,-7.5,-6,True,BAJO,"promedio -7.5 días de atraso en 6 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2008001207,2,0.5,1,False,BAJO,"promedio 0.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2008212698,2,-9.5,-9,True,BAJO,"promedio -9.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2008261235,4,-4.0,-4,False,BAJO,"promedio -4.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2008268577,2,-6.0,-6,False,BAJO,"promedio -6.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2008309257,3,2.3,25,False,BAJO,"promedio 2.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2008330743,2,2.0,3,True,BAJO,"promedio 2.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2008371952,4,-3.2,23,False,BAJO,"promedio -3.2 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2008582435,2,29.5,45,False,ALTO,"promedio 29.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2008733174,3,-5.7,3,False,BAJO,"promedio -5.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2008935428,2,-1.0,-1,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2009045197,2,22.5,23,True,ALTO,"promedio 22.5 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2009056636,1,180.0,180,False,ALTO,"promedio 180.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2009112149,1,-1.0,-1,False,BAJO,"promedio -1.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2009434261,3,-8.7,5,False,BAJO,"promedio -8.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2009716777,4,58.5,103,False,ALTO,"promedio 58.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2009737179,1,11.0,11,False,MEDIO,"promedio 11.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2009768742,3,10.7,22,False,MEDIO,"promedio 10.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2009780710,4,-1.5,-1,False,BAJO,"promedio -1.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2009784756,4,-7.5,-7,True,BAJO,"promedio -7.5 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2009855734,2,22.5,23,True,ALTO,"promedio 22.5 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2010060777,2,-2.5,-2,False,BAJO,"promedio -2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2010132504,2,-1.0,3,True,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2010136133,2,586.5,1163,False,ALTO,"promedio 586.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2010399017,4,-3.2,3,False,BAJO,"promedio -3.2 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2010441811,6,-10.8,-2,False,BAJO,"promedio -10.8 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2010586766,1,56.0,56,False,ALTO,"promedio 56.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2010945037,4,1.0,7,True,BAJO,"promedio 1.0 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2011020714,2,2.5,4,False,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2011067330,3,-3.3,4,False,BAJO,"promedio -3.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2011082543,1,25.0,25,False,ALTO,"promedio 25.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2011171530,5,-0.6,2,False,BAJO,"promedio -0.6 días de atraso en 5 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2011337701,3,-4.0,3,False,BAJO,"promedio -4.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2011487576,3,1.7,3,False,BAJO,"promedio 1.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2011701911,4,1.8,16,False,BAJO,"promedio 1.8 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2011722087,6,-8.7,2,False,BAJO,"promedio -8.7 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2011752824,2,1.5,2,False,BAJO,"promedio 1.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2011804641,2,-0.5,0,True,BAJO,"promedio -0.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2011885774,2,-2.5,-2,True,BAJO,"promedio -2.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2011902949,4,-7.5,-7,True,BAJO,"promedio -7.5 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2011994495,2,25.5,26,False,ALTO,"promedio 25.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2012159970,2,-4.0,-3,False,BAJO,"promedio -4.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2012162297,2,-1.0,2,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2012285306,2,-7.5,-7,True,BAJO,"promedio -7.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2012438665,3,-7.0,5,False,BAJO,"promedio -7.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2012453412,5,37.8,190,False,ALTO,"promedio 37.8 días de atraso en 5 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2012667521,2,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2012793422,1,-3.0,-3,False,BAJO,"promedio -3.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2012809849,2,-0.5,0,True,BAJO,"promedio -0.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2012813785,3,28.3,64,False,ALTO,"promedio 28.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2012895360,2,115.5,131,False,ALTO,"promedio 115.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2012916743,2,1.0,3,False,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2013024222,4,-8.5,-4,False,BAJO,"promedio -8.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2013054362,6,-0.5,2,False,BAJO,"promedio -0.5 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2013129077,3,-6.7,5,False,BAJO,"promedio -6.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2013237934,6,-3.2,3,False,BAJO,"promedio -3.2 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2013246233,2,-2.0,2,False,BAJO,"promedio -2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2013284189,3,1.0,1,False,BAJO,"promedio 1.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2013392711,2,8.5,10,True,MEDIO,"promedio 8.5 días de atraso en 2 factura(s), tendencia creciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2013415082,1,0.0,0,False,BAJO,"promedio 0.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2013641602,3,-4.3,6,False,BAJO,"promedio -4.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2013697319,4,1.0,1,False,BAJO,"promedio 1.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2013843524,5,-1.4,4,False,BAJO,"promedio -1.4 días de atraso en 5 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2013870601,6,2.0,4,False,BAJO,"promedio 2.0 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2013887371,2,4.5,5,False,BAJO,"promedio 4.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2014166280,2,-5.0,-3,False,BAJO,"promedio -5.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2014214756,3,-2.0,3,False,BAJO,"promedio -2.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2014220137,2,1.0,1,False,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2014332657,4,-6.5,-6,False,BAJO,"promedio -6.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2014407140,4,9.2,17,False,MEDIO,"promedio 9.2 días de atraso en 4 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2014417729,2,-10.5,5,False,BAJO,"promedio -10.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2014616173,2,-8.5,-8,True,BAJO,"promedio -8.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2014689387,2,4.5,5,False,BAJO,"promedio 4.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2014718111,7,-6.0,-1,False,BAJO,"promedio -6.0 días de atraso en 7 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2014846070,1,19.0,19,False,ALTO,"promedio 19.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2015037424,3,14.3,44,False,MEDIO,"promedio 14.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2015048988,3,9.3,19,False,MEDIO,"promedio 9.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2015336861,3,190.3,524,False,ALTO,"promedio 190.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2015428590,2,-18.5,-17,False,BAJO,"promedio -18.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2015571136,2,7.0,8,False,MEDIO,"promedio 7.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2015648856,6,-4.7,1,False,BAJO,"promedio -4.7 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2015652897,2,-6.0,-1,True,BAJO,"promedio -6.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2015985357,5,0.4,22,False,BAJO,"promedio 0.4 días de atraso en 5 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2016134169,2,-12.0,-11,True,BAJO,"promedio -12.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2016142658,6,2.0,6,False,BAJO,"promedio 2.0 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2016438796,2,0.0,2,False,BAJO,"promedio 0.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2016442878,2,-1.0,0,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2016641872,2,17.0,18,True,ALTO,"promedio 17.0 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2016722807,11,-1.1,38,False,BAJO,"promedio -1.1 días de atraso en 11 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2016738253,2,-1.5,-1,False,BAJO,"promedio -1.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2016739447,6,-3.5,0,True,BAJO,"promedio -3.5 días de atraso en 6 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2016855055,4,-7.5,-5,False,BAJO,"promedio -7.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2016982483,3,-5.7,4,False,BAJO,"promedio -5.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2017075761,2,0.5,1,True,BAJO,"promedio 0.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2017592496,2,0.5,2,False,BAJO,"promedio 0.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2017687980,2,14.5,25,True,ALTO,"promedio 14.5 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2017763650,4,-2.0,4,False,BAJO,"promedio -2.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2017913151,4,0.2,20,False,BAJO,"promedio 0.2 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2017932836,3,-5.3,6,False,BAJO,"promedio -5.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2017938134,2,1.5,4,False,BAJO,"promedio 1.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2018117869,8,-2.9,16,False,BAJO,"promedio -2.9 días de atraso en 8 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2018400793,6,83.3,153,False,ALTO,"promedio 83.3 días de atraso en 6 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2018501249,1,16.0,16,False,ALTO,"promedio 16.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2018723284,5,-2.2,5,False,BAJO,"promedio -2.2 días de atraso en 5 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2019210260,2,0.5,3,False,BAJO,"promedio 0.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2019351028,12,-2.9,22,False,BAJO,"promedio -2.9 días de atraso en 12 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2019373121,2,2.5,3,True,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2019455714,2,-13.0,-12,False,BAJO,"promedio -13.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2019530122,2,4.5,7,False,BAJO,"promedio 4.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2019605219,3,2.7,62,False,BAJO,"promedio 2.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2019848889,2,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2019876876,34,4.9,103,False,BAJO,"promedio 4.9 días de atraso en 34 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2020143008,3,-5.0,6,False,BAJO,"promedio -5.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2020274387,17,-6.3,-2,False,BAJO,"promedio -6.3 días de atraso en 17 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2020514932,3,35.0,99,False,ALTO,"promedio 35.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2020585312,4,5.0,7,False,BAJO,"promedio 5.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2020587286,4,-0.2,4,False,BAJO,"promedio -0.2 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2020933053,4,3.0,4,False,BAJO,"promedio 3.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2021032699,4,-1.0,2,False,BAJO,"promedio -1.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2021159453,8,1.5,3,True,BAJO,"promedio 1.5 días de atraso en 8 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2021245754,1,18.0,18,False,ALTO,"promedio 18.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2021250702,2,-11.5,-10,False,BAJO,"promedio -11.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2021252272,3,6.3,18,False,MEDIO,"promedio 6.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2021259203,3,18.3,23,False,ALTO,"promedio 18.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2021563134,4,-5.0,4,False,BAJO,"promedio -5.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2021595413,2,-11.5,-11,False,BAJO,"promedio -11.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2021660305,2,1.0,2,False,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2021705119,2,10.0,13,False,MEDIO,"promedio 10.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2021717009,1,4.0,4,False,BAJO,"promedio 4.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2021869954,2,23.5,27,False,ALTO,"promedio 23.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2021963014,12,-3.7,1,False,BAJO,"promedio -3.7 días de atraso en 12 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2022190206,3,-4.7,6,False,BAJO,"promedio -4.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2022213767,2,-3.5,0,True,BAJO,"promedio -3.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2022413606,3,0.3,10,False,BAJO,"promedio 0.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2022543695,2,-4.5,-1,True,BAJO,"promedio -4.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2022589688,2,1.0,1,False,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2022642503,2,-10.5,-7,False,BAJO,"promedio -10.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2022681851,2,-11.0,-10,False,BAJO,"promedio -11.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2022887994,5,-1.2,9,False,BAJO,"promedio -1.2 días de atraso en 5 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2022904680,6,-10.5,-4,False,BAJO,"promedio -10.5 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2023009780,4,2.0,21,False,BAJO,"promedio 2.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2023093512,2,-6.5,7,False,BAJO,"promedio -6.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2023184952,3,11.3,30,False,MEDIO,"promedio 11.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2023281496,4,9.2,23,False,MEDIO,"promedio 9.2 días de atraso en 4 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2023740275,9,-11.0,-4,False,BAJO,"promedio -11.0 días de atraso en 9 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2023761450,2,-5.0,-2,True,BAJO,"promedio -5.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2023773061,7,-5.9,-3,True,BAJO,"promedio -5.9 días de atraso en 7 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2023799562,4,-8.0,-5,True,BAJO,"promedio -8.0 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2023967163,2,6.0,21,False,MEDIO,"promedio 6.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2024049593,4,4.5,16,False,BAJO,"promedio 4.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2024168687,2,11.0,12,False,MEDIO,"promedio 11.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2024177972,2,3.0,5,False,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2024229967,2,2.5,3,False,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2024388948,4,3.8,25,False,BAJO,"promedio 3.8 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2024608360,2,6.0,7,False,MEDIO,"promedio 6.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2024654901,10,17.4,38,False,ALTO,"promedio 17.4 días de atraso en 10 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2024687919,30,-5.9,-3,False,BAJO,"promedio -5.9 días de atraso en 30 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2024993405,2,2.5,3,False,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2025086317,6,-3.8,3,False,BAJO,"promedio -3.8 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2025199500,8,-5.5,0,False,BAJO,"promedio -5.5 días de atraso en 8 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2025216315,4,1.8,3,False,BAJO,"promedio 1.8 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2025424256,6,0.5,1,True,BAJO,"promedio 0.5 días de atraso en 6 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2025439397,2,-4.0,-4,False,BAJO,"promedio -4.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2025650857,2,-2.5,6,False,BAJO,"promedio -2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2025935157,2,1.5,13,False,BAJO,"promedio 1.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2025967685,4,0.0,0,False,BAJO,"promedio 0.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2025969955,3,-5.0,-3,False,BAJO,"promedio -5.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2026242865,1,374.0,374,False,ALTO,"promedio 374.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2026562260,2,11.0,13,True,ALTO,"promedio 11.0 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2026598806,2,-13.0,-13,False,BAJO,"promedio -13.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2026613493,2,-3.5,1,False,BAJO,"promedio -3.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2026743546,1,19.0,19,False,ALTO,"promedio 19.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2026807327,6,0.8,7,False,BAJO,"promedio 0.8 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2026820794,2,-2.5,4,False,BAJO,"promedio -2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2026850436,2,4.5,5,False,BAJO,"promedio 4.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2026853033,2,2.5,4,True,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2026884680,1,15.0,15,False,MEDIO,"promedio 15.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2027087229,3,7.7,18,False,MEDIO,"promedio 7.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2027249828,2,2.0,3,True,BAJO,"promedio 2.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2027256336,2,-1.0,6,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2027441094,3,-18.7,1,False,BAJO,"promedio -18.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2027490034,2,6.5,22,False,MEDIO,"promedio 6.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2027491743,2,-10.0,-9,False,BAJO,"promedio -10.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2027698007,3,5.7,42,False,MEDIO,"promedio 5.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2027825543,1,-30.0,-30,False,BAJO,"promedio -30.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2027876144,5,7.2,46,False,MEDIO,"promedio 7.2 días de atraso en 5 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2027945288,1,4.0,4,False,BAJO,"promedio 4.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2027980795,2,0.5,1,True,BAJO,"promedio 0.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2028080362,2,11.0,23,False,MEDIO,"promedio 11.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2028110957,4,1.0,2,True,BAJO,"promedio 1.0 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2028148322,3,2.3,3,False,BAJO,"promedio 2.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2028216422,2,-4.5,-1,True,BAJO,"promedio -4.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2028234821,4,-8.8,-6,False,BAJO,"promedio -8.8 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2028628577,1,2.0,2,False,BAJO,"promedio 2.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2028695835,2,-1.5,0,False,BAJO,"promedio -1.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2028712026,26,3.8,21,False,BAJO,"promedio 3.8 días de atraso en 26 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2028857166,4,1099.5,1115,False,ALTO,"promedio 1099.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2028858667,35,0.4,34,False,BAJO,"promedio 0.4 días de atraso en 35 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2028873503,10,10.1,94,False,MEDIO,"promedio 10.1 días de atraso en 10 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2028931903,2,-11.0,-9,False,BAJO,"promedio -11.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2029095052,1,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2029238395,3,11.0,27,False,MEDIO,"promedio 11.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2029457874,2,-13.5,-13,True,BAJO,"promedio -13.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2029459942,8,12.6,74,False,MEDIO,"promedio 12.6 días de atraso en 8 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2029524666,2,-0.5,6,False,BAJO,"promedio -0.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2029619768,4,-14.5,-13,False,BAJO,"promedio -14.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2029762900,3,-4.0,0,False,BAJO,"promedio -4.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2029816520,2,-12.0,-12,False,BAJO,"promedio -12.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2029817021,2,-8.0,-8,False,BAJO,"promedio -8.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2029902035,19,3.8,14,False,BAJO,"promedio 3.8 días de atraso en 19 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2029921832,2,-6.5,-1,True,BAJO,"promedio -6.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2030044604,3,-7.7,6,False,BAJO,"promedio -7.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2030170496,2,3.5,4,True,BAJO,"promedio 3.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2030202496,3,-7.7,23,False,BAJO,"promedio -7.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2030329244,2,-8.0,-3,False,BAJO,"promedio -8.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2030405929,2,-3.5,-3,True,BAJO,"promedio -3.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2030716976,2,-14.5,-13,False,BAJO,"promedio -14.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2030739572,3,-7.3,-3,False,BAJO,"promedio -7.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2030767470,2,-11.5,-11,False,BAJO,"promedio -11.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2030936191,4,-2.5,7,False,BAJO,"promedio -2.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2031026995,2,-1.0,0,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2031091013,2,2.0,4,False,BAJO,"promedio 2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2031228249,3,4.7,13,False,BAJO,"promedio 4.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2031395900,2,2.5,3,True,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2031569282,1,9.0,9,False,MEDIO,"promedio 9.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2031682801,2,0.0,0,False,BAJO,"promedio 0.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2031711814,5,-5.4,5,False,BAJO,"promedio -5.4 días de atraso en 5 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2031742610,1,24.0,24,False,ALTO,"promedio 24.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2031756935,3,16.7,22,False,ALTO,"promedio 16.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2031830857,2,-3.0,0,True,BAJO,"promedio -3.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2031853028,2,18.5,19,True,ALTO,"promedio 18.5 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2031946637,2,8.0,13,False,MEDIO,"promedio 8.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2031981897,3,14.0,22,False,MEDIO,"promedio 14.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2032184225,8,2.0,3,True,BAJO,"promedio 2.0 días de atraso en 8 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2032205889,1,-5.0,-5,False,BAJO,"promedio -5.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2032219870,3,-7.3,6,False,BAJO,"promedio -7.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2032243442,2,2.0,3,True,BAJO,"promedio 2.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2032635276,2,1.5,2,True,BAJO,"promedio 1.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2032717708,2,10.5,19,False,MEDIO,"promedio 10.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2032869030,4,-0.5,0,False,BAJO,"promedio -0.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2033213127,2,-8.0,-8,False,BAJO,"promedio -8.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2033295502,6,-1.3,0,True,BAJO,"promedio -1.3 días de atraso en 6 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2033397761,2,0.5,2,True,BAJO,"promedio 0.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2033511601,4,1.0,8,False,BAJO,"promedio 1.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2033527809,2,2.0,3,True,BAJO,"promedio 2.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2033591606,2,1.5,3,True,BAJO,"promedio 1.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2033646347,1,0.0,0,False,BAJO,"promedio 0.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2033817024,3,2.0,13,False,BAJO,"promedio 2.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2033958304,2,0.0,0,False,BAJO,"promedio 0.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2034148976,2,2.5,4,False,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2034169414,1,-14.0,-14,False,BAJO,"promedio -14.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2034212173,3,-6.3,5,False,BAJO,"promedio -6.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2034304441,1,135.0,135,False,ALTO,"promedio 135.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2034879712,1,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2034895152,2,6.5,7,True,MEDIO,"promedio 6.5 días de atraso en 2 factura(s), tendencia creciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2034958413,2,-1.0,-1,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2034994857,2,25.0,25,False,ALTO,"promedio 25.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2035102698,6,-11.8,-11,False,BAJO,"promedio -11.8 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2035124090,2,-3.5,-3,False,BAJO,"promedio -3.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2035226116,2,1.0,2,True,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2035559917,1,-3.0,-3,False,BAJO,"promedio -3.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2035711012,2,3.5,4,False,BAJO,"promedio 3.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2035721731,2,0.5,2,False,BAJO,"promedio 0.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2035835869,6,0.2,3,False,BAJO,"promedio 0.2 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2035867187,3,9.0,31,False,MEDIO,"promedio 9.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2036119586,2,16.0,22,False,ALTO,"promedio 16.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2036223175,2,-7.0,-2,False,BAJO,"promedio -7.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2036551080,2,6.5,22,False,MEDIO,"promedio 6.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2036568728,4,0.0,1,True,BAJO,"promedio 0.0 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2036631349,7,15.9,34,False,ALTO,"promedio 15.9 días de atraso en 7 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2036822926,3,0.3,1,False,BAJO,"promedio 0.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2037021331,16,-7.9,4,False,BAJO,"promedio -7.9 días de atraso en 16 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2037024710,2,7.5,9,True,MEDIO,"promedio 7.5 días de atraso en 2 factura(s), tendencia creciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2037039972,4,-8.5,-3,False,BAJO,"promedio -8.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2037181733,6,-8.7,-8,False,BAJO,"promedio -8.7 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2037220961,2,4.0,5,False,BAJO,"promedio 4.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2037638826,2,12.5,19,True,ALTO,"promedio 12.5 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2037677145,2,-3.0,-1,True,BAJO,"promedio -3.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2037757541,2,16.5,29,False,ALTO,"promedio 16.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2037867912,3,2.7,20,False,BAJO,"promedio 2.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2037889248,7,0.4,4,False,BAJO,"promedio 0.4 días de atraso en 7 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2037925283,1,13.0,13,False,MEDIO,"promedio 13.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2038022621,2,-2.0,3,True,BAJO,"promedio -2.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2038298370,2,2.0,4,True,BAJO,"promedio 2.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2038330759,4,2.0,4,False,BAJO,"promedio 2.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2038577653,2,19.5,20,False,ALTO,"promedio 19.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2038638301,3,-1.0,0,False,BAJO,"promedio -1.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2038838681,2,0.5,1,True,BAJO,"promedio 0.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2038848428,2,20.0,20,False,ALTO,"promedio 20.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2038909371,2,-13.5,-12,False,BAJO,"promedio -13.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2038929902,3,8.0,15,False,MEDIO,"promedio 8.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2038993702,2,-1.0,4,True,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2039137544,7,0.4,3,False,BAJO,"promedio 0.4 días de atraso en 7 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2039216584,4,-6.0,8,False,BAJO,"promedio -6.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2039317482,2,8.5,24,False,MEDIO,"promedio 8.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2039485996,2,2.0,7,True,BAJO,"promedio 2.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2039576863,3,-10.7,-9,False,BAJO,"promedio -10.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2039660724,3,-7.7,3,False,BAJO,"promedio -7.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2039714658,2,-14.0,-14,False,BAJO,"promedio -14.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2039728300,2,3.0,4,True,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2039754476,2,-2.5,-1,True,BAJO,"promedio -2.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2039793515,2,-4.0,-3,False,BAJO,"promedio -4.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2039863336,1,-4.0,-4,False,BAJO,"promedio -4.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2039889808,2,2.5,3,False,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2040008808,2,-10.5,-9,False,BAJO,"promedio -10.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2040265328,6,1.0,2,False,BAJO,"promedio 1.0 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2040313126,2,-5.5,0,True,BAJO,"promedio -5.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2040443627,2,8.0,12,False,MEDIO,"promedio 8.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2040445117,6,-9.3,2,False,BAJO,"promedio -9.3 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2040502929,2,1.0,1,False,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2040613653,1,15.0,15,False,MEDIO,"promedio 15.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2040655923,4,-1.0,0,True,BAJO,"promedio -1.0 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2040664753,2,3.5,4,True,BAJO,"promedio 3.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2040677842,3,-14.3,6,False,BAJO,"promedio -14.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2040817262,4,-3.0,3,False,BAJO,"promedio -3.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2040860442,1,10.0,10,False,MEDIO,"promedio 10.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2040866126,2,0.0,1,True,BAJO,"promedio 0.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2041085342,4,-0.2,1,False,BAJO,"promedio -0.2 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2041116026,2,-3.5,-2,False,BAJO,"promedio -3.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2041230831,2,1.0,13,True,ALTO,"promedio 1.0 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2041328688,2,-2.0,-1,True,BAJO,"promedio -2.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2041506167,5,-10.0,-7,True,BAJO,"promedio -10.0 días de atraso en 5 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2041506329,4,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2042009956,1,2.0,2,False,BAJO,"promedio 2.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2042176157,4,-8.0,-7,False,BAJO,"promedio -8.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2042324093,2,5.0,5,False,BAJO,"promedio 5.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2042422772,10,0.5,5,False,BAJO,"promedio 0.5 días de atraso en 10 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2042647818,13,-3.2,3,False,BAJO,"promedio -3.2 días de atraso en 13 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2042683095,1,23.0,23,False,ALTO,"promedio 23.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2042734334,2,-2.0,6,False,BAJO,"promedio -2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2042836144,2,-14.0,-13,False,BAJO,"promedio -14.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2042893140,2,67.0,82,False,ALTO,"promedio 67.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2043037576,1,-6.0,-6,False,BAJO,"promedio -6.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2043108067,2,151.0,165,False,ALTO,"promedio 151.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2043149098,2,-9.5,-9,False,BAJO,"promedio -9.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2043153301,2,4.5,5,False,BAJO,"promedio 4.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2043288258,2,3.0,4,True,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2043300039,8,-3.0,1,True,BAJO,"promedio -3.0 días de atraso en 8 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2043314925,2,1.0,1,False,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2043506981,2,3.0,4,True,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2043525526,1,25.0,25,False,ALTO,"promedio 25.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2043659343,2,-1.0,-1,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2043779813,4,2.5,3,True,BAJO,"promedio 2.5 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2043931605,2,3.5,4,False,BAJO,"promedio 3.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2043931649,2,3.5,4,False,BAJO,"promedio 3.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2043951639,2,-4.0,-1,False,BAJO,"promedio -4.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2044062182,2,-12.0,-12,False,BAJO,"promedio -12.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2044133904,2,-1.0,-1,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2044242578,2,-4.0,-3,False,BAJO,"promedio -4.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2044354863,1,-3.0,-3,False,BAJO,"promedio -3.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2044366286,2,-1.0,-1,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2044463955,2,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2044479748,4,-2.0,3,False,BAJO,"promedio -2.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2044662368,4,16.0,95,False,ALTO,"promedio 16.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2044789187,2,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2044791755,2,12.5,13,False,MEDIO,"promedio 12.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2044848650,2,-6.5,-5,False,BAJO,"promedio -6.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2044862591,16,-1.1,7,False,BAJO,"promedio -1.1 días de atraso en 16 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2045052005,2,1.5,5,True,BAJO,"promedio 1.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2045106571,4,-4.5,-1,False,BAJO,"promedio -4.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2045121201,4,-2.0,4,True,BAJO,"promedio -2.0 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2045140447,2,-0.5,1,True,BAJO,"promedio -0.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2045175160,2,-7.5,-5,True,BAJO,"promedio -7.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2045309501,4,112.8,231,False,ALTO,"promedio 112.8 días de atraso en 4 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2045396307,2,3.5,4,True,BAJO,"promedio 3.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2045407090,3,48.0,149,False,ALTO,"promedio 48.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2045425222,2,52.0,67,False,ALTO,"promedio 52.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2045498450,2,-2.0,-1,True,BAJO,"promedio -2.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2045546222,14,-3.2,15,False,BAJO,"promedio -3.2 días de atraso en 14 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2045653206,2,-1.0,4,True,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2045742723,1,16.0,16,False,ALTO,"promedio 16.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2045771478,4,-8.5,-7,False,BAJO,"promedio -8.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2045776570,2,-1.5,-1,False,BAJO,"promedio -1.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2045813472,2,4.5,6,False,BAJO,"promedio 4.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2045832604,2,7.0,13,False,MEDIO,"promedio 7.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2045845197,2,-2.0,0,True,BAJO,"promedio -2.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2045850656,2,-12.5,-12,True,BAJO,"promedio -12.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2045855183,1,-8.0,-8,False,BAJO,"promedio -8.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2046058498,6,-2.8,3,False,BAJO,"promedio -2.8 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2046155934,2,-10.5,-10,False,BAJO,"promedio -10.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2046269782,4,-8.5,5,False,BAJO,"promedio -8.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2046639773,5,-3.6,5,False,BAJO,"promedio -3.6 días de atraso en 5 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2046751787,2,-1.5,3,False,BAJO,"promedio -1.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2046766017,1,1.0,1,False,BAJO,"promedio 1.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2046859398,4,-4.0,-3,True,BAJO,"promedio -4.0 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2046868113,2,-1.0,1,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2046916374,2,23.0,25,True,ALTO,"promedio 23.0 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2046930363,2,-1.0,2,True,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2046969172,3,-15.3,4,False,BAJO,"promedio -15.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2046973081,2,-5.0,-4,False,BAJO,"promedio -5.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2047042192,2,-8.5,7,False,BAJO,"promedio -8.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2047100108,1,17.0,17,False,ALTO,"promedio 17.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2047585517,3,-0.7,3,True,BAJO,"promedio -0.7 días de atraso en 3 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2047587904,4,1.2,7,False,BAJO,"promedio 1.2 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2047601641,2,-4.5,-1,False,BAJO,"promedio -4.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2047611797,2,4.5,8,False,BAJO,"promedio 4.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2047640143,2,-12.5,3,False,BAJO,"promedio -12.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2047695932,3,-4.7,16,False,BAJO,"promedio -4.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2047900690,2,2.0,3,False,BAJO,"promedio 2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2048046441,2,6.5,8,True,MEDIO,"promedio 6.5 días de atraso en 2 factura(s), tendencia creciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2048171681,6,-2.5,1,False,BAJO,"promedio -2.5 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2048306935,1,0.0,0,False,BAJO,"promedio 0.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2048390773,2,-6.0,-5,True,BAJO,"promedio -6.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2048465395,3,-1.3,3,False,BAJO,"promedio -1.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2048747968,2,-11.0,-11,False,BAJO,"promedio -11.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2048797474,2,1.0,2,False,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2048805652,2,-0.5,0,True,BAJO,"promedio -0.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2049019784,2,0.5,1,False,BAJO,"promedio 0.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2049062431,6,-1.0,-1,False,BAJO,"promedio -1.0 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2049666577,6,-3.7,11,False,BAJO,"promedio -3.7 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2049726118,4,-5.0,3,False,BAJO,"promedio -5.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2050012017,1,-12.0,-12,False,BAJO,"promedio -12.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2050158167,4,1.0,1,False,BAJO,"promedio 1.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2050334437,1,-12.0,-12,False,BAJO,"promedio -12.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2050348529,10,-12.2,-3,False,BAJO,"promedio -12.2 días de atraso en 10 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2050372725,2,10.0,16,True,ALTO,"promedio 10.0 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2050440165,14,51.1,190,False,ALTO,"promedio 51.1 días de atraso en 14 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2050504401,2,-0.5,0,True,BAJO,"promedio -0.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2050544462,3,105.0,134,False,ALTO,"promedio 105.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2050562330,3,-8.3,4,False,BAJO,"promedio -8.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2050636428,3,-8.3,-8,False,BAJO,"promedio -8.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2050652193,2,3.5,4,True,BAJO,"promedio 3.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2050766085,3,-11.0,10,False,BAJO,"promedio -11.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2050799857,2,15.5,31,False,ALTO,"promedio 15.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2050836779,4,1.5,2,False,BAJO,"promedio 1.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2050878096,8,-4.6,0,False,BAJO,"promedio -4.6 días de atraso en 8 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2051224691,2,-2.5,-1,False,BAJO,"promedio -2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2051257434,3,1.0,28,False,BAJO,"promedio 1.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2051341964,6,-4.7,3,False,BAJO,"promedio -4.7 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2051349743,1,127.0,127,False,ALTO,"promedio 127.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2051367485,1,5.0,5,False,BAJO,"promedio 5.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2051379016,3,-1.3,2,False,BAJO,"promedio -1.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2051502270,2,-3.5,2,False,BAJO,"promedio -3.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2051562677,2,-2.0,-1,False,BAJO,"promedio -2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2051657671,3,6.0,47,False,MEDIO,"promedio 6.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2051682890,5,-5.8,2,False,BAJO,"promedio -5.8 días de atraso en 5 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2051800045,4,-9.5,-7,True,BAJO,"promedio -9.5 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2051947639,2,-1.0,-1,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2052009555,10,-5.2,3,False,BAJO,"promedio -5.2 días de atraso en 10 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2052019028,4,-3.0,0,True,BAJO,"promedio -3.0 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2052036896,2,-6.0,-5,False,BAJO,"promedio -6.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2052142070,2,2.0,3,False,BAJO,"promedio 2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2052186925,2,3.5,4,False,BAJO,"promedio 3.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2052778896,2,-11.0,-10,False,BAJO,"promedio -11.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2052784539,2,-14.5,-14,True,BAJO,"promedio -14.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2052913932,2,-3.0,-3,False,BAJO,"promedio -3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2053149169,2,-3.5,1,False,BAJO,"promedio -3.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2053392902,2,18.5,34,False,ALTO,"promedio 18.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2053487352,2,-0.5,0,False,BAJO,"promedio -0.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2053555214,4,-13.0,-12,False,BAJO,"promedio -13.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2053570348,2,-7.0,-2,False,BAJO,"promedio -7.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2053585542,2,2.0,2,False,BAJO,"promedio 2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2053765186,3,-9.0,14,False,BAJO,"promedio -9.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2053805361,6,1.8,3,False,BAJO,"promedio 1.8 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2053891306,2,0.0,0,False,BAJO,"promedio 0.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2053911269,14,0.7,1,True,BAJO,"promedio 0.7 días de atraso en 14 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2054205660,2,-3.5,-3,True,BAJO,"promedio -3.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2054238271,2,-3.5,-3,False,BAJO,"promedio -3.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2054297630,2,-1.0,0,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2054510534,2,-12.5,-12,False,BAJO,"promedio -12.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2054531131,3,-4.3,7,False,BAJO,"promedio -4.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2054553077,2,-2.5,-2,False,BAJO,"promedio -2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2054807394,4,1.5,3,True,BAJO,"promedio 1.5 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2054854170,6,-3.3,2,False,BAJO,"promedio -3.3 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2054865614,2,-1.5,-1,False,BAJO,"promedio -1.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2054871546,2,-3.5,-3,False,BAJO,"promedio -3.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2054941434,2,0.0,1,True,BAJO,"promedio 0.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2055088087,2,-7.0,-5,True,BAJO,"promedio -7.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2055526321,2,-10.5,-10,False,BAJO,"promedio -10.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2055715122,3,4.7,23,False,BAJO,"promedio 4.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2055840070,2,-1.0,3,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2056036658,2,-0.5,1,True,BAJO,"promedio -0.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2056046163,2,-2.0,-2,False,BAJO,"promedio -2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2056140058,4,0.8,2,True,BAJO,"promedio 0.8 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2056163476,5,10.0,39,False,MEDIO,"promedio 10.0 días de atraso en 5 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2056323517,1,-9.0,-9,False,BAJO,"promedio -9.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2056365469,2,1.5,3,True,BAJO,"promedio 1.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2056538582,2,-13.0,-12,False,BAJO,"promedio -13.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2056762434,2,1.0,2,False,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2056897122,2,25.0,40,False,ALTO,"promedio 25.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2056921911,12,-1.8,9,False,BAJO,"promedio -1.8 días de atraso en 12 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2056934422,4,0.0,2,False,BAJO,"promedio 0.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2057100089,6,-11.5,2,False,BAJO,"promedio -11.5 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2057227210,10,-1.0,0,True,BAJO,"promedio -1.0 días de atraso en 10 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2057311015,2,-0.5,0,False,BAJO,"promedio -0.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2057406010,4,6.8,17,False,MEDIO,"promedio 6.8 días de atraso en 4 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2057463246,3,1.3,16,False,BAJO,"promedio 1.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2057609277,4,-4.5,-4,True,BAJO,"promedio -4.5 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2057750040,1,-1.0,-1,False,BAJO,"promedio -1.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2057768570,2,-8.5,-8,True,BAJO,"promedio -8.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2057822132,2,-1.0,5,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2057929173,4,1.5,3,True,BAJO,"promedio 1.5 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2057932564,2,2.0,6,True,BAJO,"promedio 2.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2057947861,2,1.5,3,False,BAJO,"promedio 1.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2058066767,2,1.5,4,True,BAJO,"promedio 1.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2058153118,2,8.5,13,False,MEDIO,"promedio 8.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2058246578,6,5.2,25,False,MEDIO,"promedio 5.2 días de atraso en 6 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2058314802,12,-2.5,-1,True,BAJO,"promedio -2.5 días de atraso en 12 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2058334645,2,-5.0,-1,True,BAJO,"promedio -5.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2058367129,2,-4.0,-2,True,BAJO,"promedio -4.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2058413599,4,0.2,23,False,BAJO,"promedio 0.2 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2058522670,2,-9.0,-7,True,BAJO,"promedio -9.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2058548876,2,1.5,2,True,BAJO,"promedio 1.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2058571451,3,-8.0,-3,False,BAJO,"promedio -8.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2058797594,6,-2.2,3,False,BAJO,"promedio -2.2 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2058943768,4,-2.0,-1,False,BAJO,"promedio -2.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2059054819,6,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2059135824,2,-5.0,-2,False,BAJO,"promedio -5.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2059259780,3,-15.3,4,False,BAJO,"promedio -15.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2059315520,1,26.0,26,False,ALTO,"promedio 26.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2059324355,4,-0.5,0,False,BAJO,"promedio -0.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2059396553,2,3.5,16,False,BAJO,"promedio 3.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2059508137,2,15.5,21,False,ALTO,"promedio 15.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2059516434,2,6.5,11,False,MEDIO,"promedio 6.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2059791752,2,-6.0,2,False,BAJO,"promedio -6.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2059931462,2,1.0,2,True,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2059951611,2,-3.5,-1,True,BAJO,"promedio -3.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2060001107,2,17.5,25,False,ALTO,"promedio 17.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2060056891,3,10.0,22,False,MEDIO,"promedio 10.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2060200980,46,-2.2,27,False,BAJO,"promedio -2.2 días de atraso en 46 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2060375617,7,6.4,21,False,MEDIO,"promedio 6.4 días de atraso en 7 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2060519712,2,-5.0,-4,False,BAJO,"promedio -5.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2060524559,1,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2060627595,1,27.0,27,False,ALTO,"promedio 27.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2060826481,2,-1.0,2,True,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2060838699,16,-3.5,-2,False,BAJO,"promedio -3.5 días de atraso en 16 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2060928654,3,-4.0,6,False,BAJO,"promedio -4.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2061123522,2,2.0,3,False,BAJO,"promedio 2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2061219681,1,24.0,24,False,ALTO,"promedio 24.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2061270007,4,11.0,15,False,MEDIO,"promedio 11.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2061505168,2,3.0,4,False,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2061607083,5,-2.2,4,False,BAJO,"promedio -2.2 días de atraso en 5 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2061726816,3,5.0,13,False,BAJO,"promedio 5.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2061945853,1,-11.0,-11,False,BAJO,"promedio -11.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2062185872,2,1.0,6,False,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2062201122,2,-9.5,-8,True,BAJO,"promedio -9.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2062205828,2,1.5,4,False,BAJO,"promedio 1.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2062666590,2,2.0,3,False,BAJO,"promedio 2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2062740957,2,-5.5,0,False,BAJO,"promedio -5.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2062806803,2,-0.5,1,True,BAJO,"promedio -0.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2062849793,1,-7.0,-7,False,BAJO,"promedio -7.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2062876920,3,-6.7,4,False,BAJO,"promedio -6.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2062894104,2,-5.0,-3,True,BAJO,"promedio -5.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2062922977,3,-11.0,12,False,BAJO,"promedio -11.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2063005127,2,-1.0,8,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2063036368,1,1.0,1,False,BAJO,"promedio 1.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2063051543,1,8.0,8,False,MEDIO,"promedio 8.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2063339709,6,-4.0,4,False,BAJO,"promedio -4.0 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2063701019,2,-5.5,-4,True,BAJO,"promedio -5.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2063755498,4,-3.5,-2,True,BAJO,"promedio -3.5 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2063773311,2,-7.0,-3,False,BAJO,"promedio -7.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2063869275,4,0.5,2,False,BAJO,"promedio 0.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2063960356,6,-11.3,-8,False,BAJO,"promedio -11.3 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2064019811,2,-1.5,4,True,BAJO,"promedio -1.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2064043539,2,-11.0,-9,True,BAJO,"promedio -11.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2064277467,2,-8.5,-5,False,BAJO,"promedio -8.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2064475821,2,-5.5,2,False,BAJO,"promedio -5.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2064524697,3,-6.0,5,False,BAJO,"promedio -6.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2064536829,6,-2.7,0,False,BAJO,"promedio -2.7 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2064574452,2,3.5,5,True,BAJO,"promedio 3.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2064617159,1,-5.0,-5,False,BAJO,"promedio -5.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2064658684,1,-4.0,-4,False,BAJO,"promedio -4.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2064786199,2,2.5,3,False,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2064808256,4,-0.5,3,False,BAJO,"promedio -0.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2064819637,2,8.5,9,False,MEDIO,"promedio 8.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2064887435,2,7.0,22,False,MEDIO,"promedio 7.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2064993907,2,2.0,2,False,BAJO,"promedio 2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2065026469,2,-4.0,11,False,BAJO,"promedio -4.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2065059290,3,7.3,11,False,MEDIO,"promedio 7.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2065298423,2,2.5,3,True,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2065299671,2,2.5,4,False,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2065302766,2,-12.0,3,False,BAJO,"promedio -12.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2065635379,3,-5.0,1,False,BAJO,"promedio -5.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2065722978,2,0.0,6,True,BAJO,"promedio 0.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2065971015,3,-4.7,1,False,BAJO,"promedio -4.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2066104589,1,18.0,18,False,ALTO,"promedio 18.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2066260318,2,14.5,27,False,MEDIO,"promedio 14.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2066331018,2,-1.0,0,True,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2066367927,3,2.7,11,False,BAJO,"promedio 2.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2066464531,1,4.0,4,False,BAJO,"promedio 4.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2066685881,2,4.0,19,False,BAJO,"promedio 4.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2066708502,3,-2.3,4,False,BAJO,"promedio -2.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2066842380,2,-7.0,-7,False,BAJO,"promedio -7.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2067006652,13,-1.6,0,False,BAJO,"promedio -1.6 días de atraso en 13 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2067016446,2,-7.5,-2,True,BAJO,"promedio -7.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2067346691,2,-6.0,1,True,BAJO,"promedio -6.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2067382285,2,-6.5,-2,False,BAJO,"promedio -6.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2067392845,4,-8.8,-2,True,BAJO,"promedio -8.8 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2067472025,2,11.0,11,False,MEDIO,"promedio 11.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2067647278,10,0.4,20,False,BAJO,"promedio 0.4 días de atraso en 10 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2068100781,7,-2.4,26,False,BAJO,"promedio -2.4 días de atraso en 7 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2068178034,3,-7.7,23,False,BAJO,"promedio -7.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2068263724,6,336.3,413,False,ALTO,"promedio 336.3 días de atraso en 6 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2068272028,2,5.0,10,False,BAJO,"promedio 5.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2068423196,2,-4.0,5,True,BAJO,"promedio -4.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2068445567,4,-12.0,15,False,BAJO,"promedio -12.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2068624950,8,8.4,29,False,MEDIO,"promedio 8.4 días de atraso en 8 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2068641471,2,-9.0,-7,False,BAJO,"promedio -9.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2068643068,1,2.0,2,False,BAJO,"promedio 2.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2068789568,2,8.5,19,False,MEDIO,"promedio 8.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2068848408,2,1.0,2,False,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2068878174,2,-5.0,-3,True,BAJO,"promedio -5.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2069114417,2,-6.0,-4,False,BAJO,"promedio -6.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2069121500,3,-5.7,-2,False,BAJO,"promedio -5.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2069123981,2,0.5,2,False,BAJO,"promedio 0.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2069275365,2,2.5,4,False,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2069376951,2,18.0,19,False,ALTO,"promedio 18.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2069451715,2,-0.5,0,False,BAJO,"promedio -0.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2069501836,2,-1.0,0,True,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2069507116,2,-0.5,0,False,BAJO,"promedio -0.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2069655698,2,-7.0,-5,False,BAJO,"promedio -7.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2069670596,2,2.0,5,False,BAJO,"promedio 2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2070054625,2,16.0,19,True,ALTO,"promedio 16.0 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2070061501,2,0.5,1,True,BAJO,"promedio 0.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2070083854,4,4.5,5,False,BAJO,"promedio 4.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2070148979,1,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2070214710,1,23.0,23,False,ALTO,"promedio 23.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2070236567,2,-1.0,0,True,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2070262664,2,-2.5,-2,False,BAJO,"promedio -2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2070293430,3,28.7,59,False,ALTO,"promedio 28.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2070397154,2,3.0,4,False,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2070410790,1,-6.0,-6,False,BAJO,"promedio -6.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2070947882,1,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2070952060,2,-10.5,-10,False,BAJO,"promedio -10.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2070960858,21,11.6,93,False,MEDIO,"promedio 11.6 días de atraso en 21 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2071042073,2,2.5,3,True,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2071082447,2,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2071170607,11,6.0,14,False,MEDIO,"promedio 6.0 días de atraso en 11 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2071316506,3,0.0,4,False,BAJO,"promedio 0.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2071377105,4,-2.8,0,False,BAJO,"promedio -2.8 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2071395567,6,-0.5,1,False,BAJO,"promedio -0.5 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2071502889,1,9.0,9,False,MEDIO,"promedio 9.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2071656712,4,-4.5,1,True,BAJO,"promedio -4.5 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2071743172,1,-6.0,-6,False,BAJO,"promedio -6.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2071854449,2,1.5,2,False,BAJO,"promedio 1.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2072252949,2,-2.5,-2,False,BAJO,"promedio -2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2072282953,2,-1.0,1,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2072690831,2,5.0,20,False,BAJO,"promedio 5.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2072719850,2,-2.0,3,False,BAJO,"promedio -2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2072727583,6,0.2,3,False,BAJO,"promedio 0.2 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2072848608,1,-5.0,-5,False,BAJO,"promedio -5.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2072882399,4,1.8,8,False,BAJO,"promedio 1.8 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2073030272,1,18.0,18,False,ALTO,"promedio 18.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2073093583,1,-12.0,-12,False,BAJO,"promedio -12.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2073105592,3,19.7,41,False,ALTO,"promedio 19.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2073133607,2,3.0,5,True,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2073231877,3,13.3,24,False,MEDIO,"promedio 13.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2073533879,4,-1.5,-1,True,BAJO,"promedio -1.5 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2073554752,2,-7.0,-5,True,BAJO,"promedio -7.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2073578104,4,-0.5,0,False,BAJO,"promedio -0.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2073860151,2,2.5,3,False,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2074037343,2,22.5,23,True,ALTO,"promedio 22.5 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2074129386,8,-0.5,0,True,BAJO,"promedio -0.5 días de atraso en 8 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2074242971,2,1.5,2,False,BAJO,"promedio 1.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2074271284,1,9.0,9,False,MEDIO,"promedio 9.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2074315436,2,22.5,23,True,ALTO,"promedio 22.5 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2074327800,6,-5.0,5,False,BAJO,"promedio -5.0 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2074347576,2,8.0,11,False,MEDIO,"promedio 8.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2074355904,4,6.0,19,False,MEDIO,"promedio 6.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2074406544,10,7.7,13,False,MEDIO,"promedio 7.7 días de atraso en 10 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2074423060,2,1.0,1,False,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2074525786,4,4.0,5,False,BAJO,"promedio 4.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2074581354,3,2.0,6,False,BAJO,"promedio 2.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2074628342,5,4.6,23,False,BAJO,"promedio 4.6 días de atraso en 5 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2074657038,6,19.2,94,False,ALTO,"promedio 19.2 días de atraso en 6 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2074789528,2,11.0,21,False,MEDIO,"promedio 11.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2074915485,2,-11.0,-9,False,BAJO,"promedio -11.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2074987251,1,9.0,9,False,MEDIO,"promedio 9.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2075453385,2,-3.5,3,True,BAJO,"promedio -3.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2075533541,6,19.7,65,False,ALTO,"promedio 19.7 días de atraso en 6 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2075773401,2,18.0,33,False,ALTO,"promedio 18.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2075863671,2,8.0,23,False,MEDIO,"promedio 8.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2075957069,2,0.5,2,False,BAJO,"promedio 0.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2076142431,3,-7.3,-4,False,BAJO,"promedio -7.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2076412738,2,-2.0,2,False,BAJO,"promedio -2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2076439409,1,2.0,2,False,BAJO,"promedio 2.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2076630547,2,-3.0,0,True,BAJO,"promedio -3.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2076902654,4,-3.0,-1,True,BAJO,"promedio -3.0 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2076939161,3,-1.7,10,False,BAJO,"promedio -1.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2077048357,2,1.0,3,True,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2077292308,2,10.5,12,False,MEDIO,"promedio 10.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2077435033,8,-3.0,-2,False,BAJO,"promedio -3.0 días de atraso en 8 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2077511265,2,3.0,4,True,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2077608678,2,-3.0,3,True,BAJO,"promedio -3.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2077617839,4,-8.5,-8,True,BAJO,"promedio -8.5 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2077915409,1,12.0,12,False,MEDIO,"promedio 12.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2077915427,28,-12.8,-3,False,BAJO,"promedio -12.8 días de atraso en 28 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2078066090,2,13.5,19,False,MEDIO,"promedio 13.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2078183391,6,-5.7,7,False,BAJO,"promedio -5.7 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2078272562,2,1.0,8,False,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2078299854,2,-11.5,-10,True,BAJO,"promedio -11.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2078310260,2,-1.0,0,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2078386304,2,-8.0,-3,True,BAJO,"promedio -8.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2078414316,2,-8.5,-4,True,BAJO,"promedio -8.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2078606158,4,8.5,16,False,MEDIO,"promedio 8.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2078675402,3,-14.0,6,False,BAJO,"promedio -14.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2078692933,6,8.0,37,False,MEDIO,"promedio 8.0 días de atraso en 6 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2078721881,6,1.0,2,True,BAJO,"promedio 1.0 días de atraso en 6 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2078847538,5,-11.0,-8,False,BAJO,"promedio -11.0 días de atraso en 5 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2078921519,2,1.0,2,True,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2078922170,2,2.5,3,False,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2078938243,2,-5.5,-5,False,BAJO,"promedio -5.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2078998333,1,6.0,6,False,MEDIO,"promedio 6.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2079015167,4,6.0,14,False,MEDIO,"promedio 6.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2079015638,5,42.0,128,False,ALTO,"promedio 42.0 días de atraso en 5 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2079044208,2,26.5,29,True,ALTO,"promedio 26.5 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2079138145,2,23.5,25,False,ALTO,"promedio 23.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2079287596,6,-2.3,0,False,BAJO,"promedio -2.3 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2079459148,2,12.0,16,True,ALTO,"promedio 12.0 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2079583404,2,-7.0,-6,True,BAJO,"promedio -7.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2079585159,2,2.5,3,False,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2079641879,6,-6.3,-1,False,BAJO,"promedio -6.3 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2079684847,4,1.0,3,False,BAJO,"promedio 1.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2079774432,2,-1.0,-1,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2079899808,4,1.2,3,True,BAJO,"promedio 1.2 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2080122729,1,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2080123968,1,-8.0,-8,False,BAJO,"promedio -8.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2080284452,2,-1.5,5,True,BAJO,"promedio -1.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2080289526,3,-3.3,8,False,BAJO,"promedio -3.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2080300027,2,-8.0,-5,False,BAJO,"promedio -8.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2080338247,1,-5.0,-5,False,BAJO,"promedio -5.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2080420835,2,1.5,2,True,BAJO,"promedio 1.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2080448535,2,-5.5,2,False,BAJO,"promedio -5.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2080474018,4,1.0,1,False,BAJO,"promedio 1.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2080608107,2,-3.5,-1,False,BAJO,"promedio -3.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2080713308,2,-8.0,-7,True,BAJO,"promedio -8.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2080971084,2,-6.0,-1,False,BAJO,"promedio -6.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2081042486,9,2.6,21,False,BAJO,"promedio 2.6 días de atraso en 9 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2081136919,2,-8.0,-7,False,BAJO,"promedio -8.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2081245613,3,-1.3,1,False,BAJO,"promedio -1.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2081251090,1,5.0,5,False,BAJO,"promedio 5.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2081309251,4,-5.8,8,False,BAJO,"promedio -5.8 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2081571842,5,15.4,57,False,ALTO,"promedio 15.4 días de atraso en 5 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2081744801,1,-3.0,-3,False,BAJO,"promedio -3.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2082043891,5,-2.2,-1,False,BAJO,"promedio -2.2 días de atraso en 5 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2082130032,2,-4.5,-4,True,BAJO,"promedio -4.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2082132796,2,4.0,16,True,ALTO,"promedio 4.0 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2082156443,6,12.5,39,False,MEDIO,"promedio 12.5 días de atraso en 6 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2082202511,4,-2.2,7,False,BAJO,"promedio -2.2 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2082291564,2,21.0,22,False,ALTO,"promedio 21.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2082378549,3,-7.3,23,False,BAJO,"promedio -7.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2082422571,12,-1.8,4,False,BAJO,"promedio -1.8 días de atraso en 12 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2082639572,9,24.7,48,False,ALTO,"promedio 24.7 días de atraso en 9 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2082647868,3,0.0,4,True,BAJO,"promedio 0.0 días de atraso en 3 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2082824645,4,-5.2,1,False,BAJO,"promedio -5.2 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2082900579,2,-1.5,0,True,BAJO,"promedio -1.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2083087437,2,-13.0,-12,False,BAJO,"promedio -13.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2083097547,4,2.5,3,False,BAJO,"promedio 2.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2083104989,2,-1.0,1,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2083215398,2,-6.0,-6,False,BAJO,"promedio -6.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2083295497,1,30.0,30,False,ALTO,"promedio 30.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2083393986,2,-10.5,-10,True,BAJO,"promedio -10.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2083487599,4,-4.2,4,False,BAJO,"promedio -4.2 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2083697675,2,-2.0,2,False,BAJO,"promedio -2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2083750866,2,-12.5,-12,True,BAJO,"promedio -12.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2083952379,2,15.5,27,False,ALTO,"promedio 15.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2084074807,8,-2.0,3,False,BAJO,"promedio -2.0 días de atraso en 8 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2084279674,2,-11.5,-9,False,BAJO,"promedio -11.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2084347031,8,-6.8,-3,False,BAJO,"promedio -6.8 días de atraso en 8 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2084384500,22,-4.0,3,False,BAJO,"promedio -4.0 días de atraso en 22 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2084457504,3,3.3,18,False,BAJO,"promedio 3.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2084499858,3,-2.7,3,False,BAJO,"promedio -2.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2084595191,3,-7.3,3,False,BAJO,"promedio -7.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2084680790,2,1.0,1,False,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2084915354,2,3.0,7,True,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2085048217,2,-4.0,-4,False,BAJO,"promedio -4.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2085352948,2,22.5,23,True,ALTO,"promedio 22.5 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2085420441,4,1.2,3,False,BAJO,"promedio 1.2 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2085588833,2,-14.5,-13,False,BAJO,"promedio -14.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2085903598,7,1.3,39,False,BAJO,"promedio 1.3 días de atraso en 7 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2085992497,4,-11.5,-11,True,BAJO,"promedio -11.5 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2086007246,2,0.0,2,False,BAJO,"promedio 0.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2086021462,1,0.0,0,False,BAJO,"promedio 0.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2086306604,1,2.0,2,False,BAJO,"promedio 2.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2086451533,2,-10.5,-9,False,BAJO,"promedio -10.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2086602695,15,1.9,22,False,BAJO,"promedio 1.9 días de atraso en 15 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2086851615,8,-4.0,1,False,BAJO,"promedio -4.0 días de atraso en 8 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2086906355,2,-6.0,-4,False,BAJO,"promedio -6.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2086977341,2,-3.0,-3,False,BAJO,"promedio -3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2087019723,2,-0.5,0,False,BAJO,"promedio -0.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2087028740,4,8.0,23,False,MEDIO,"promedio 8.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2087352121,2,-10.0,-8,True,BAJO,"promedio -10.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2087410427,2,3.0,4,True,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2087681453,4,7.5,15,True,ALTO,"promedio 7.5 días de atraso en 4 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2087856323,2,-3.0,-2,False,BAJO,"promedio -3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2087905445,2,-10.0,-8,True,BAJO,"promedio -10.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2087931136,1,-6.0,-6,False,BAJO,"promedio -6.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2087942739,4,6.0,26,False,MEDIO,"promedio 6.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2087955899,2,10.0,13,False,MEDIO,"promedio 10.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2088089421,1,20.0,20,False,ALTO,"promedio 20.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2088121602,2,6.0,7,False,MEDIO,"promedio 6.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2088325879,2,2.5,3,False,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2088342501,2,-4.0,-4,False,BAJO,"promedio -4.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2088352056,4,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2088412995,4,-10.5,-9,False,BAJO,"promedio -10.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2088424166,6,-1.0,1,False,BAJO,"promedio -1.0 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2088485339,2,-2.5,-2,True,BAJO,"promedio -2.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2088594219,10,130.5,146,False,ALTO,"promedio 130.5 días de atraso en 10 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2088634271,3,18.3,75,False,ALTO,"promedio 18.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2088688350,2,3.0,4,False,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2088706641,5,7.4,29,False,MEDIO,"promedio 7.4 días de atraso en 5 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2088717616,2,-10.5,5,False,BAJO,"promedio -10.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2088855451,2,3.0,4,True,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2088901543,3,-8.3,-4,False,BAJO,"promedio -8.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2088958700,2,3.0,4,True,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2089094497,2,0.0,0,False,BAJO,"promedio 0.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2089216910,2,5.5,9,False,MEDIO,"promedio 5.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2089275916,3,3.3,19,False,BAJO,"promedio 3.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2089508889,2,-10.0,-9,False,BAJO,"promedio -10.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2089657456,2,1.0,2,False,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2089896350,2,-5.0,-4,False,BAJO,"promedio -5.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2089935977,2,19.5,25,True,ALTO,"promedio 19.5 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2089943246,2,2.5,3,False,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2089998824,1,-3.0,-3,False,BAJO,"promedio -3.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2090067728,2,11.0,17,True,ALTO,"promedio 11.0 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2090103192,2,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2090130796,3,-2.0,4,False,BAJO,"promedio -2.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2090272538,2,0.0,2,True,BAJO,"promedio 0.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2090318936,1,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2090334510,3,1.0,13,False,BAJO,"promedio 1.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2090408902,2,-7.5,-6,False,BAJO,"promedio -7.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2090597659,2,-10.0,-7,False,BAJO,"promedio -10.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2090613378,2,-3.5,-3,False,BAJO,"promedio -3.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2090631860,1,2.0,2,False,BAJO,"promedio 2.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2090808430,2,-0.5,0,True,BAJO,"promedio -0.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2090837613,2,15.0,18,False,MEDIO,"promedio 15.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2091198935,9,5.4,27,False,MEDIO,"promedio 5.4 días de atraso en 9 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2091280680,2,2.5,3,False,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2091514048,4,-1.2,0,False,BAJO,"promedio -1.2 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2091534039,1,1.0,1,False,BAJO,"promedio 1.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2091648036,2,-14.0,-12,False,BAJO,"promedio -14.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2091691985,3,0.0,29,False,BAJO,"promedio 0.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2091733360,3,-4.0,0,False,BAJO,"promedio -4.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2091789509,10,17.4,80,False,ALTO,"promedio 17.4 días de atraso en 10 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2091840603,2,2.0,17,False,BAJO,"promedio 2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2091901431,2,28.0,56,False,ALTO,"promedio 28.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2091907227,4,9.8,34,False,MEDIO,"promedio 9.8 días de atraso en 4 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2092314059,2,-7.0,-2,True,BAJO,"promedio -7.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2092536593,4,-0.5,0,False,BAJO,"promedio -0.5 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2092594405,2,5.0,5,False,BAJO,"promedio 5.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2092679466,2,19.5,22,False,ALTO,"promedio 19.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2093064195,2,1.0,1,False,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2093200767,2,564.5,580,False,ALTO,"promedio 564.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2093258591,3,-11.7,-10,False,BAJO,"promedio -11.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2093305474,2,9.0,10,False,MEDIO,"promedio 9.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2093365484,6,-10.2,-7,False,BAJO,"promedio -10.2 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2093387336,2,2.0,2,False,BAJO,"promedio 2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2093660214,1,2.0,2,False,BAJO,"promedio 2.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2093746302,2,-8.0,-8,False,BAJO,"promedio -8.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2093804116,3,-7.0,3,False,BAJO,"promedio -7.0 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2093830022,2,-2.0,0,False,BAJO,"promedio -2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2093894628,1,38.0,38,False,ALTO,"promedio 38.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2093963249,6,-7.5,0,False,BAJO,"promedio -7.5 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2094037394,3,-0.3,2,False,BAJO,"promedio -0.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2094069953,2,19.5,25,False,ALTO,"promedio 19.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2094267528,2,-1.0,-1,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2094370630,2,-12.5,-12,False,BAJO,"promedio -12.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2094379951,2,3.5,6,True,BAJO,"promedio 3.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2094402346,2,-11.5,-10,True,BAJO,"promedio -11.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2094577730,5,5.8,22,False,MEDIO,"promedio 5.8 días de atraso en 5 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2094902246,2,1.0,2,True,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2094973310,4,1.2,3,False,BAJO,"promedio 1.2 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2095007193,8,-8.8,-6,False,BAJO,"promedio -8.8 días de atraso en 8 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2095018481,3,-7.3,4,False,BAJO,"promedio -7.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2095085624,1,2.0,2,False,BAJO,"promedio 2.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2095370945,2,-3.5,-3,False,BAJO,"promedio -3.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2095488337,2,-13.0,-12,False,BAJO,"promedio -13.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2095609618,2,14.5,15,False,MEDIO,"promedio 14.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2095824297,8,-11.1,-6,False,BAJO,"promedio -11.1 días de atraso en 8 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2095839381,4,0.8,3,False,BAJO,"promedio 0.8 días de atraso en 4 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2095867314,2,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2096030030,2,-4.0,-4,False,BAJO,"promedio -4.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2096031193,6,-2.3,10,False,BAJO,"promedio -2.3 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2096049962,2,0.5,3,False,BAJO,"promedio 0.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2096100663,2,-1.0,-1,False,BAJO,"promedio -1.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2096148900,1,1.0,1,False,BAJO,"promedio 1.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2096202915,2,2.5,4,True,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2096447129,12,-6.7,7,False,BAJO,"promedio -6.7 días de atraso en 12 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2096452817,2,-3.0,-2,False,BAJO,"promedio -3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2096523728,2,-10.5,-10,False,BAJO,"promedio -10.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2096608121,2,2.5,3,True,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2096711703,4,-1.5,-1,True,BAJO,"promedio -1.5 días de atraso en 4 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2096770204,2,4.0,5,False,BAJO,"promedio 4.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2096907655,2,2.5,5,True,BAJO,"promedio 2.5 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2096933668,2,2.0,3,True,BAJO,"promedio 2.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2096959477,2,-10.0,4,False,BAJO,"promedio -10.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2097027071,1,-2.0,-2,False,BAJO,"promedio -2.0 días de atraso en 1 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2097068950,6,-11.0,-11,False,BAJO,"promedio -11.0 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2097185694,3,13.3,47,False,MEDIO,"promedio 13.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2097496783,3,22.7,23,False,ALTO,"promedio 22.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2097519862,3,-12.3,13,False,BAJO,"promedio -12.3 días de atraso en 3 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2097998127,2,-1.5,0,False,BAJO,"promedio -1.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2098171066,2,28.0,30,True,ALTO,"promedio 28.0 días de atraso en 2 factura(s), tendencia creciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2098217998,2,25.5,26,False,ALTO,"promedio 25.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2098283606,5,153.4,214,False,ALTO,"promedio 153.4 días de atraso en 5 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2098293784,8,1.8,26,False,BAJO,"promedio 1.8 días de atraso en 8 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2098309864,12,-5.2,32,False,BAJO,"promedio -5.2 días de atraso en 12 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2098363854,25,29.9,59,False,ALTO,"promedio 29.9 días de atraso en 25 factura(s), tendencia estable/decreciente",Contacto proactivo antes del vencimiento + oferta de plan de pago fraccionado; escalar a gestor de cuenta senior.
+2098378939,3,10.7,24,False,MEDIO,"promedio 10.7 días de atraso en 3 factura(s), tendencia estable/decreciente",Recordatorio automático 5 días antes del vencimiento por correo/WhatsApp; sin escalamiento humano todavía.
+2098720538,6,-5.0,-5,False,BAJO,"promedio -5.0 días de atraso en 6 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2099090721,2,1.0,2,True,BAJO,"promedio 1.0 días de atraso en 2 factura(s), tendencia creciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2099316748,2,-2.0,-1,False,BAJO,"promedio -2.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2099767426,2,-2.5,-1,False,BAJO,"promedio -2.5 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
+2099839122,2,3.0,3,False,BAJO,"promedio 3.0 días de atraso en 2 factura(s), tendencia estable/decreciente",Mantener ciclo de facturación estándar; sin acción de cobranza adicional.
