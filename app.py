@@ -22,14 +22,7 @@ import json
 from pathlib import Path
 
 import pandas as pd
-import os
 import streamlit as st
-
-if "GEMINI_API_KEY" in st.secrets:
-    os.environ["GEMINI_API_KEY"] = st.secrets["GEMINI_API_KEY"]
-
-if not api_key:
-    api_key = st.text_input("GEMINI_API_KEY para el chat", type="password")
 
 
 from tools.db_tool import get_contrato, get_orden_compra
