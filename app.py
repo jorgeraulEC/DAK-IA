@@ -24,6 +24,8 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
+if "GEMINI_API_KEY" in st.secrets:
+    os.environ["GEMINI_API_KEY"] = st.secrets["GEMINI_API_KEY"]
 
 
 from tools.db_tool import get_contrato, get_orden_compra
