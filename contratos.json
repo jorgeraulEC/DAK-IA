@@ -1,0 +1,38 @@
+[
+  {
+    "cliente_id": "2005150947",
+    "razon_social": "CLIENT_00073",
+    "servicio": "Trío Movistar Empresas (Voz + Internet FTTH + TV) — Plan Local Estándar HD",
+    "monto_mensual_pactado": 281.89,
+    "moneda": "PEN",
+    "plazo_credito_dias": 16,
+    "vigente_desde": "2018-12-18",
+    "notas": "San Isidro (Lima). SUNAT: HABIDO/ACTIVO. Monto facturado idéntico en junio y julio 2026 (S/281.89); sin descuentos activos en el dataset.",
+    "clausula_facturacion": "Cláusula 6.1",
+    "texto_clausula_facturacion": "El monto facturado debe corresponder exactamente a la Orden de Compra vigente del periodo; cualquier variación requiere una OC actualizada antes de la emisión."
+  },
+  {
+    "cliente_id": "2075533541",
+    "razon_social": "CLIENT_00465",
+    "servicio": "Línea Móvil B2B Movistar Empresas — Plan Abierto Elige Todo Emp RD (S/59.9)",
+    "monto_mensual_pactado": 44.17,
+    "moneda": "PEN",
+    "plazo_credito_dias": 16,
+    "vigente_desde": "2000-08-03",
+    "notas": "Huancayo (Junín). El monto facturado bajó de S/44.17 (may-jun 2026) a S/18.97 en julio 2026. En los 3 últimos periodos el monto pagado no cubre el 100% de lo facturado (ver historial_pagos y extracto_bancario).",
+    "clausula_facturacion": "Cláusula 6.1",
+    "texto_clausula_facturacion": "El monto facturado debe corresponder exactamente a la Orden de Compra vigente del periodo; cualquier variación requiere una OC actualizada antes de la emisión."
+  },
+  {
+    "cliente_id": "2098283606",
+    "razon_social": "CLIENT_00347",
+    "servicio": "Dúo Movistar (Voz + Internet ADSL) — Plan Local",
+    "monto_mensual_pactado": 5.46,
+    "moneda": "PEN",
+    "plazo_credito_dias": 16,
+    "vigente_desde": "1995-05-05",
+    "notas": "Comas (Lima). Línea fija en estado 'Suspended'. SUNAT: BAJA DE OFICIO. Sin facturación registrada desde marzo 2026. Monto mensual pactado calculado sobre los periodos regulares (excluye factura atípica de diciembre 2025 por S/178.78).",
+    "clausula_facturacion": "Cláusula 6.1",
+    "texto_clausula_facturacion": "El monto facturado debe corresponder exactamente a la Orden de Compra vigente del periodo; cualquier variación requiere una OC actualizada antes de la emisión."
+  }
+]

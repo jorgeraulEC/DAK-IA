@@ -1,0 +1,26 @@
+[
+  {
+    "voucher_id": "VCH-S9AA-0082939903",
+    "cliente_id": "2005150947",
+    "monto_extraido": 281.89,
+    "fecha_extraida": "2026-07-14",
+    "calidad_ocr": "alta",
+    "nota": "Voucher legible, coincide con el extracto bancario real (factura S9AA-0082939903, jul-2026)."
+  },
+  {
+    "voucher_id": "VCH-S9AA-0082588997",
+    "cliente_id": "2075533541",
+    "monto_extraido": 18.97,
+    "fecha_extraida": "2026-07-21",
+    "calidad_ocr": "alta",
+    "nota": "Caso real: el comprobante enviado por el cliente indica S/18.97 (monto total de la factura S9AA-0082588997), pero el extracto bancario real solo registra S/9.49 para ese abono. El mismo patrón de pago parcial (~50%) se repite en las facturas de mayo y junio 2026. Debe escalar, no cerrarse automáticamente."
+  },
+  {
+    "voucher_id": "VCH-000347-sin-voucher",
+    "cliente_id": "2098283606",
+    "monto_extraido": null,
+    "fecha_extraida": null,
+    "calidad_ocr": "sin_voucher",
+    "nota": "Cliente sin facturación ni pago registrado desde marzo 2026 (última factura: S9AA-0079577327, S/4.69). Línea fija en estado 'Suspended' y RUC en SUNAT como BAJA DE OFICIO."
+  }
+]

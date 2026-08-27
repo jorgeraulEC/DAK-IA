@@ -1,0 +1,16 @@
+[
+  {
+    "oc_id": "OC-2026-07-000073",
+    "cliente_id": "2005150947",
+    "periodo": "2026-07",
+    "monto_esperado": 281.89,
+    "detalle": "Monto esperado según la factura real S9AA-0082939903 (emitida 2026-07-01, vence 2026-07-17). Coincide con el monto facturado en junio 2026."
+  },
+  {
+    "oc_id": "OC-2026-07-000465",
+    "cliente_id": "2075533541",
+    "periodo": "2026-07",
+    "monto_esperado": 18.97,
+    "detalle": "Monto esperado según la factura real S9AA-0082588997 (emitida 2026-07-01, vence 2026-07-17). Nota: en mayo y junio 2026 el monto facturado fue mayor (S/44.17); julio bajó a S/18.97."
+  }
+]

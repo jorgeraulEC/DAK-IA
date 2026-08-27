@@ -1,0 +1,4 @@
+crewai[google-genai]
+streamlit
+pandas
+python-dotenv

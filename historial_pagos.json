@@ -1,0 +1,14 @@
+[
+  {"cliente_id": "2005150947", "periodo": "2026-06", "dias_de_atraso": -7},
+  {"cliente_id": "2005150947", "periodo": "2026-07", "dias_de_atraso": -3},
+
+  {"cliente_id": "2075533541", "periodo": "2026-05", "dias_de_atraso": 65},
+  {"cliente_id": "2075533541", "periodo": "2026-06", "dias_de_atraso": 34},
+  {"cliente_id": "2075533541", "periodo": "2026-07", "dias_de_atraso": 4},
+
+  {"cliente_id": "2098283606", "periodo": "2025-11", "dias_de_atraso": 214},
+  {"cliente_id": "2098283606", "periodo": "2025-12", "dias_de_atraso": 184},
+  {"cliente_id": "2098283606", "periodo": "2026-01", "dias_de_atraso": 153},
+  {"cliente_id": "2098283606", "periodo": "2026-02", "dias_de_atraso": 122},
+  {"cliente_id": "2098283606", "periodo": "2026-03", "dias_de_atraso": 94}
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "cliente_id": "2005150947",
+    "razon_social": "CLIENT_00073",
+    "tipo_documento": "RUC",
+    "sunat_estado_ruc": "HABIDO",
+    "sunat_estado_contribuyente": "ACTIVO",
+    "sunat_departamento": "LIMA",
+    "sunat_provincia": "Lima",
+    "sunat_distrito": "San Isidro"
+  },
+  {
+    "cliente_id": "2075533541",
+    "razon_social": "CLIENT_00465",
+    "tipo_documento": "RUC",
+    "sunat_estado_ruc": "HABIDO",
+    "sunat_estado_contribuyente": "ACTIVO",
+    "sunat_departamento": "JUNIN",
+    "sunat_provincia": "Huancayo",
+    "sunat_distrito": "Huancayo"
+  },
+  {
+    "cliente_id": "2098283606",
+    "razon_social": "CLIENT_00347",
+    "tipo_documento": "RUC",
+    "sunat_estado_ruc": "HABIDO",
+    "sunat_estado_contribuyente": "BAJA DE OFICIO",
+    "sunat_departamento": "LIMA",
+    "sunat_provincia": "Lima",
+    "sunat_distrito": "Comas"
+  }
+]

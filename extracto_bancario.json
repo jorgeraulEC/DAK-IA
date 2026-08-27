@@ -1,0 +1,32 @@
+[
+  {
+    "movimiento_id": "MOV-S9AA-0082481260",
+    "fecha": "2026-06-10",
+    "monto": 281.89,
+    "referencia": "TRANSF 2005150947 FACT S9AA-0082481260 JUN26"
+  },
+  {
+    "movimiento_id": "MOV-S9AA-0082939903",
+    "fecha": "2026-07-14",
+    "monto": 281.89,
+    "referencia": "TRANSF 2005150947 FACT S9AA-0082939903 JUL26"
+  },
+  {
+    "movimiento_id": "MOV-S9AA-0080856506",
+    "fecha": "2026-07-21",
+    "monto": 22.09,
+    "referencia": "TRANSF 2075533541 FACT S9AA-0080856506 MAY26"
+  },
+  {
+    "movimiento_id": "MOV-S9AA-0082123951",
+    "fecha": "2026-07-21",
+    "monto": 22.09,
+    "referencia": "TRANSF 2075533541 FACT S9AA-0082123951 JUN26"
+  },
+  {
+    "movimiento_id": "MOV-S9AA-0082588997",
+    "fecha": "2026-07-21",
+    "monto": 9.49,
+    "referencia": "TRANSF 2075533541 FACT S9AA-0082588997 JUL26"
+  }
+]
