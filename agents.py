@@ -27,7 +27,7 @@ from tools.risk_tool import calcular_riesgo
 llm_orquestador = LLM(model="gemini/gemini-3.7-flash")
 
 # Facturador: la auditoría de discrepancias exige el mejor juicio -> Pro.
-llm_facturador = LLM(model="gemini/gemini-3.1-pro")
+llm_facturador = LLM(model="gemini/gemini-3.5-flash-lite")
 
 # Cobranzas: alto volumen, baja ambigüedad (matching de pagos) -> el más
 # barato de los tres, reservando Pro solo para casos que se escalan.
@@ -35,7 +35,7 @@ llm_cobranzas = LLM(model="gemini/gemini-3.5-flash-lite")
 
 # Analista BI: rol de mayor impacto en decisiones de gerencia (riesgo de
 # impago) -> el modelo de mejor razonamiento, igual que Facturador.
-llm_analista_bi = LLM(model="gemini/gemini-3.1-pro")
+llm_analista_bi = LLM(model="gemini/gemini-3.5-flash-lite")
 
 # --- Agentes ------------------------------------------------------------
 
