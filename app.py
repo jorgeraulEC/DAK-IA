@@ -22,11 +22,7 @@ import json
 from pathlib import Path
 
 import pandas as pd
-import os
 import streamlit as st
-
-if "GEMINI_API_KEY" in st.secrets:
-    os.environ["GEMINI_API_KEY"] = st.secrets["GEMINI_API_KEY"]
 
 
 from tools.db_tool import get_contrato, get_orden_compra
@@ -80,22 +76,7 @@ with st.sidebar:
     )
     api_key = None
     if modo.startswith("🤖"):
-
-        """api_key = st.text_input("GEMINI_API_KEY", type="password")"""
-
-      # 1. Intentar obtener la clave de los Secrets (así no sale la caja en pantalla)
-gemini_key = st.secrets.get("GEMINI_API_KEY", "")
-
-# 2. Si por algún motivo no la encuentra, recién ahí muestra la caja
-if not gemini_key:
-    gemini_key = st.text_input("GEMINI_API_KEY para el chat", type="password")
-
-# 3. Asegurar que el entorno la tenga lista para los agentes
-if gemini_key:
-    os.environ["GEMINI_API_KEY"] = gemini_key
-
-
-      
+        api_key = st.text_input("GEMINI_API_KEY", type="password")
         st.caption("Necesaria solo para el modo IA completo (Google AI Studio).")
     st.divider()
     st.markdown(
