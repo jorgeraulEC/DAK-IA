@@ -5,7 +5,7 @@ detalle completo en `README_MVP_CREWAI.md`) y el pipeline batch
 (dataset completo, detalle en `pipeline_batch/README_PIPELINE.md`),
 viviendo en el mismo dashboard.
 
-## Para la demo de 30 segundos — el camino más corto
+## Para la demo de 30 segundos 
 
 ```bash
 python3 -m venv venv && source venv/bin/activate
